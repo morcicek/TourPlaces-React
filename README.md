@@ -21,7 +21,7 @@ This is an application that the first time I use React.js
 
 ### Links
 
-- Live Site URL: [Live Site](https://morcicek-first-react-app.netlify.app)
+- Live Site URL: [Live Site](https://tourplaces-react.netlify.app/)
 
 ## My process
 
